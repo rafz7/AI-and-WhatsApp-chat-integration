@@ -1,2 +1,2 @@
 # AI-and-WhatsApp-chat-integration
-Make ai for Professional answer on meta Bussines with feature integration.
+Simple base script ai for Professional answer on meta Bussines Account with simple feature.
